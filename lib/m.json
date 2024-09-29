@@ -1,0 +1,56 @@
+{
+    "location": {
+        "name": "London",
+        "region": "City of London, Greater London",
+        "country": "United Kingdom",
+        "lat": 51.52,
+        "lon": -0.11
+    },
+    "current": {
+        "last_updated": "2024-09-20 15:00",
+        "temp_c": 20.2,
+        "is_day": 1,
+        "condition": {
+            "text": "Partly cloudy",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png"
+        },
+        "wind_kph": 20.2,
+        "wind_degree": 82,
+        "wind_dir": "E",
+        "humidity": 68,
+        "cloud": 25,
+        "feelslike_c": 20.2,
+        "uv": 6.0
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2024-09-20",
+                "day": {
+                    "maxtemp_c": 22.6,
+                    "mintemp_c": 14.8,
+                    "condition": {
+                        "text": "Sunny",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png"
+                    },
+                    "uv": 3.0
+                },
+                "astro": {
+                    "sunrise": "06:44 AM",
+                    "sunset": "07:02 PM"
+                },
+                "hour": [
+                    {
+                        "time": "2024-09-20 00:00",
+                        "temp_c": 15.5,
+                        "is_day": 0,
+                        "condition": {
+                            "text": "Partly Cloudy ",
+                            "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
